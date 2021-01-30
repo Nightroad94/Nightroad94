@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nightroad94&show_icons=true&include_all_commits=true&count_private=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nightroad94&layout=compact&langs_count=10&card_width=445">
+<img align="center"src="https://komarev.com/ghpvc/?username=Nightroad94&style=flat-square&label&label=Profile+Views">
+
 <!--
 **Nightroad94/Nightroad94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
